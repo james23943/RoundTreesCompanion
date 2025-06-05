@@ -1,4 +1,4 @@
-# Round Trees Companion
+# RoundTreesCompanion
 
 A Minecraft Fabric mod that prevents z-fighting between wall signs, ladders, and round tree texture packs by subtly shifting them forward when placed on logs.
 
@@ -19,7 +19,7 @@ A Minecraft Fabric mod that prevents z-fighting between wall signs, ladders, and
 
 1. Install [Fabric Loader](https://fabricmc.net/use/installer/) for your Minecraft version
 2. Download [Fabric API](https://modrinth.com/mod/fabric-api) and place it in your mods folder
-3. Download Round Trees Companion from [Modrinth](https://modrinth.com/mod/round-trees-companion) and place it in your mods folder
+3. Download RoundTreesCompanion from [Modrinth](https://modrinth.com/mod/roundtreescompanion) and place it in your mods folder
 4. Launch Minecraft with the Fabric profile
 
 ## How It Works
